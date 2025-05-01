@@ -23,7 +23,7 @@ among newer customers (less than 12 months).<BR><BR>
 
 2.Service Combinations<BR>
 Identification of specific service packages that correlate with increased<BR>
-customer departure rates.
+customer departure rates.<BR>
 
 3.Monthly Trends<BR>
 
@@ -35,4 +35,8 @@ identify seasonal factors.
 Examination of how customer communication preferences relate to their likelihood <BR>
 of discontinuing service.
 
+<H3>Random Forest Algorithm for churn analysis </H3<br><br>
+The use of the Random Forest algorithm for customer churn analysis covered the  data preprocessing, model training, evaluation, feature<br> importance, and prediction on new data. The goal is to identify customers likely to churn, enabling targeted retention strategies.                                               
+<br>
 
+It is used for customer churn analysis due to its ability to handle non-linear relationships, feature importance insights, <br>and predictive accuracy. By identifying key churn drivers and predicting high-risk customers,<br> businesses can implement targeted retention strategies. Further model tuning and feature engineering may improve the<br> model, ultimately reducing customer churn.
