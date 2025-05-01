@@ -17,7 +17,7 @@ Visualized & Analysed Customer Data on the basis of :<br><br>
 2. Total Churn & Churn Rate<br>
 3. New Joiners<br>
 
-<H3>SQL QUERIES FOR</H3><BR><BR>
+<H3>SQL QUERIES FOR</H3><BR>
 
 1.Tenure Analysis<BR><BR>
 
