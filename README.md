@@ -35,7 +35,7 @@ identify seasonal factors.
 Examination of how customer communication preferences relate to their likelihood <BR>
 of discontinuing service.
 
-<H3>Random Forest Algorithm for churn analysis</H3<br><br>
+<h3>Random Forest Algorithm for churn analysis</h3> <br><br>
 
 The use of the Random Forest algorithm for customer churn analysis covered the  data preprocessing, model training, evaluation, feature<br> importance, and prediction on new data. The goal is to identify customers likely to churn, enabling targeted retention strategies.                                               
 <br>
