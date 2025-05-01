@@ -41,3 +41,7 @@ o	The goal is to identify customers likely to churn, enabling targeted retention
 o	It is used for customer churn analysis due to its ability to handle non-linear relationships, feature importance insights,and predictive accuracy.<br> 
 o	By identifying key churn drivers and predicting high-risk customers, businesses can implement targeted retention strategies.<br> 
 o	Further model tuning and feature engineering may improve the<br> model, ultimately reducing customer churn.
+
+<H3>Power bi</H3><br>
+Create a  comprehensive Power BI dashboard with and Executive Summary to analyze historical data and also a Churn Prediction page to predict future churners.
+
