@@ -3,18 +3,18 @@ Created an entire ETL process in a database & a Power BI dashboard to utilize th
 
 Visualized & Analysed Customer Data on the basis of :<br><br>
 
-1. Demographic<br>
-2. Geographic<br>
-3. Payment & Account Info<br>
-4. Services<br>
-5. Study Churner Profile & Identify Areas for Implementing Marketing Campaigns<br>
-6. Identifying a Method to Predict Future Churners<br>
+•	Demographic<br>
+•	Geographic<br>
+•	Payment & Account Info<br>
+•	Services<br>
+•	Study Churner Profile & Identify Areas for Implementing Marketing Campaigns<br>
+•	Identifying a Method to Predict Future Churners<br>
    
 
 <h2>Metrics used</h2><br>
-1. Total Customers<br>
-2. Total Churn & Churn Rate<br>
-3. New Joiners<br>
+•	Total Customers<br>
+•	Total Churn & Churn Rate<br>
+•	New Joiners<br>
 
 <H3>SQL QUERIES FOR</H3>
 1.Tenure Analysis<BR><BR>
@@ -26,15 +26,18 @@ Identification of specific service packages that correlate with increased<BR>
 customer departure rates.<BR>
 
 3.Monthly Trends<BR>
-
 Visualization of churn patterns over time using 3-month rolling averages to <BR>
 identify seasonal factors.
 
 4.Contact Method Correlation<BR>
 
-Examination of how customer communication preferences relate to their likelihood <BR>
-of discontinuing service.
+Examination of how customer communication preferences relate to their likelihood 
+of discontinuing service.<br>
 
 <h3>Random Forest Algorithm for churn analysis</h3> <br><br>
 
-The use of the Random Forest algorithm for customer churn analysis covered the  data preprocessing, model training, evaluation, feature importance, and prediction on new data.<br> The goal is to identify customers likely to churn, enabling targeted retention strategies.<br>It is used for customer churn analysis due to its ability to handle non-linear relationships, feature importance insights,and predictive accuracy.<br> By identifying key churn drivers and predicting high-risk customers, businesses can implement targeted retention strategies.<br> Further model tuning and feature engineering may improve the<br> model, ultimately reducing customer churn.
+o	The use of the Random Forest algorithm for customer churn analysis covered the  data preprocessing, model training, evaluation, feature importance, and prediction on new data.<br>
+o	The goal is to identify customers likely to churn, enabling targeted retention strategies.<br>
+o	It is used for customer churn analysis due to its ability to handle non-linear relationships, feature importance insights,and predictive accuracy.<br> 
+o	By identifying key churn drivers and predicting high-risk customers, businesses can implement targeted retention strategies.<br> 
+o	Further model tuning and feature engineering may improve the<br> model, ultimately reducing customer churn.
