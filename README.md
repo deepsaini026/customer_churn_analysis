@@ -37,7 +37,4 @@ of discontinuing service.
 
 <h3>Random Forest Algorithm for churn analysis</h3> <br><br>
 
-The use of the Random Forest algorithm for customer churn analysis covered the  data preprocessing, model training, evaluation, feature<br> importance, and prediction on new data. The goal is to identify customers likely to churn, enabling targeted retention strategies.                                               
-<br>
-
-It is used for customer churn analysis due to its ability to handle non-linear relationships, feature importance insights, <br>and predictive accuracy. By identifying key churn drivers and predicting high-risk customers,<br> businesses can implement targeted retention strategies. Further model tuning and feature engineering may improve the<br> model, ultimately reducing customer churn.
+The use of the Random Forest algorithm for customer churn analysis covered the  data preprocessing, model training, evaluation, feature importance, and prediction on new data.<br> The goal is to identify customers likely to churn, enabling targeted retention strategies.<br>It is used for customer churn analysis due to its ability to handle non-linear relationships, feature importance insights,and predictive accuracy.<br> By identifying key churn drivers and predicting high-risk customers, businesses can implement targeted retention strategies.<br> Further model tuning and feature engineering may improve the<br> model, ultimately reducing customer churn.
